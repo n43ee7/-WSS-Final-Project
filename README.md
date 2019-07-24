@@ -11,7 +11,7 @@ ________________________________________________________________________
 I was Using Mathematica 12 and no foreign Data was imported in the program instead of the Images required to be analyzed, Make sure change the desired Import location to avoid errors. \
 ___________________________________________________________________________
  \
-Notes [!] \ 
+Notes [!] 
 \
 I will be commiting a few updates on the project and if you will be working on this too then be sure to fork this repository (or clone it).
  

@@ -4,11 +4,11 @@
  \
 Made by: **Nabeel Ur Rehman Nayyar** \
 From: **Pakistan** \
-Description: *The project is on Computer Vision and Data analysis and by a suggestion from Mr. Wolfram I aimed to make Pac-Man for visually impared people. *
+Description: *The project is on Computer Vision and Data analysis and by a suggestion from Mr. Wolfram I aimed to make Pac-Man for visually impared people*
  
  
 ________________________________________________________________________
-I was Using Mathematica 12 and no foreign Data was imported in the program instead of the Images required to be analyzed, Make sure change the desired Import location to avoid errors. \
+I was Using Mathematica 12 and no foreign Data was imported in the program instead of the Images required to be analyzed, Make sure change the desired Import location to avoid errors. 
 ___________________________________________________________________________
  \
 Notes [!] 

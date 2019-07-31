@@ -4,7 +4,7 @@
  \
 Made by: **Nabeel Ur Rehman Nayyar** \
 From: **Pakistan** \
-Description: *The project is on Computer Vision and Data analysis and by a suggestion from Mr. Wolfram I aimed to make Pac-Man for visually impared people*
+Description: *The project is on Computer Vision and Data analysis, by a suggestion from Mr. Wolfram, I aimed worked on a practical approach which was to use this program to make Video Games for Visually Impared People. Check my Wolfram Community post for more details (https://community.wolfram.com/groups/-/m/t/1732766?p_p_auth=LDXYvA7J)*
  
  
 ________________________________________________________________________

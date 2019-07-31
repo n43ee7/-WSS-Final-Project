@@ -1,4 +1,4 @@
-# Parsing Details from Video Game Footages # [![Build Status](https://travis-ci.org/n43ee7/WSS-Final-Project.svg?branch=master)](https://travis-ci.org/n43ee7/WSS-Final-Project)
+# Parsing Details from Video Game Footages      [![Build Status](https://travis-ci.org/n43ee7/WSS-Final-Project.svg?branch=master)](https://travis-ci.org/n43ee7/WSS-Final-Project)
 ### Wolfram Summer Camp Final Project ###
  
  \

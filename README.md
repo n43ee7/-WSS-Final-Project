@@ -14,9 +14,3 @@ ___________________________________________________________________________
 Notes [!] 
 \
 I will be commiting a few updates on the project and if you will be working on this too then be sure to fork this repository (or clone it).
- 
- 
-________________________________________________________________________
-
-The Pac-Man Game Project (That I used to collect the footage) is uploaded here:
-https://github.com/n43ee7/Pac-Man-Unity-3D
